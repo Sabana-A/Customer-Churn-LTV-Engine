@@ -97,5 +97,4 @@ Customer-Churn-LTV-Engine/
 ├── notebooks/
 ├── frontend/
 ├── README.md
-├── requirements.txt
-└── .env
+└── requirements.txt
